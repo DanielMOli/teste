@@ -1,0 +1,68 @@
+<html lang="pt-br"><head>
+    <meta charg="UTF-8">
+    <link rel="stylesheet" href="style.css">
+  <title> Grandeza </title>     
+  </head>
+  <body class="activity-stream">
+    <header> 
+      <nav>
+         <h1> <a href="#" class="navbar"> Início </a> </h1>
+        <ul class="menu">
+          <li> <a> Portifólio </a></li>
+          <li> <a> About </a> </li>
+          <li> <a> contact </a> </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      
+    </main>
+    <footer>
+    </footer>
+    
+<style type="text/css">
+  *{
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: blue;
+  font-size: 30vh;
+  font-family: "Montserrat", "Helvetica", sans-serif;
+  font-weight: 950;
+}
+  a {
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+  }
+  nav {
+    background-color: lightcyan;
+    justify-content: center;
+    display: flex;
+    height: 60vh;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  .menu a {
+    font-family: "Montserrat", sans-serif;
+    color: blue;
+    display: block; 
+    padding: 15px;
+    font-size: 16px;
+  }
+  .menu {
+    display: flex;
+    height: 100%;
+    width: 500vh;
+    justify-items: center;
+    margin: 0 auto;
+}
+</style></body></html>
